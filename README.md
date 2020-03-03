@@ -1,4 +1,4 @@
-Notes: A simple notes CLI
+Notes-CLI: A simple notes CLI
 ========================================
 Notes aims to be an extremely simple note taking CLI with human readable output.
 All notes are stored in a single file in plain text with a prepended timestamp, and
