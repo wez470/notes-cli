@@ -11,8 +11,8 @@ All notes are stored in a single file in plain text with a prepended local times
 with optional tags appended. `notes-cli` is designed to be used with a search tool such
 as [ripgrep](https://github.com/BurntSushi/ripgrep)
 
-The delimiter between timestamp, note, and tags is configurable, along with the notes
-file path. Once set, they will be remembered. More in depth searching may be added in
+The delimiter between timestamp, note, and tags is configurable, along with the location
+of the notes file. Once set, they will be remembered. More in depth searching may be added in
 the future, but one of my goals is to keep the notes file hand editable.
 
 ## Examples
