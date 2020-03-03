@@ -8,7 +8,7 @@ Notes-CLI: A simple notes CLI
 
 `notes-cli` aims to be an extremely simple note taking CLI with human readable output.
 All notes are stored in a single file in plain text with a prepended local timestamp, and
-with optional tags appended. Notes is designed to be used with a search tool such
+with optional tags appended. `notes-cli` is designed to be used with a search tool such
 as [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 The delimiter between timestamp, note, and tags is configurable, along with the notes
