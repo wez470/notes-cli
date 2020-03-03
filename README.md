@@ -6,7 +6,8 @@ with optional tags appended. Notes is designed to be used with a search tool suc
 as [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 The delimiter between timestamp, note, and tags is configurable, along with the notes
-file path. More in depth searching may be added in the future.
+file path. More in depth searching may be added in the future, but I'd like to keep
+the notes file hand editable.
 
 ## Examples
 
