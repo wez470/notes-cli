@@ -25,7 +25,7 @@ impl ::std::default::Default for Config {
 
 /// Notes CLI arguments
 #[derive(StructOpt, Debug)]
-#[structopt(name = "Notes", about = "A simple note taker that stores notes in the format date, note, tags")]
+#[structopt(name = "notes-cli", about = "A simple note taker that stores notes in the format date, note, tags")]
 struct Cli {
     /// The note to record
     #[structopt(name = "note")]
