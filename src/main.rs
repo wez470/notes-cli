@@ -6,7 +6,7 @@ use std::io::{Error, ErrorKind, Write};
 use std::fs::OpenOptions;
 use chrono::Local;
 
-const CONFIG_NAME: &str = "notes";
+const CONFIG_NAME: &str = "notes-cli";
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Config {

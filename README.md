@@ -12,8 +12,9 @@ with optional tags appended. `notes-cli` is designed to be used with a search to
 as [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 The delimiter between timestamp, note, and tags is configurable, along with the location
-of the notes file. Once set, they will be remembered. More in depth searching may be added in
-the future, but one of my goals is to keep the notes file hand editable.
+of the notes file. Once set, they will be remembered. Config is stored in the standard
+location on your OS e.g. `~/.config/notes-cli/notes-cli.toml` on linux. More in depth
+searching may be added in the future, but one of my goals is to keep the notes file hand editable.
 
 ## Examples
 
